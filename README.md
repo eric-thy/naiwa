@@ -13,10 +13,11 @@
 
 | | 说明 | 大小 |
 | --- | --- | --- |
-| **网页版**（本仓库根目录） | 教程/图片/音频按需加载，首屏约 4 MB 即可开玩 | 29 MB |
+| **网页版**（本仓库根目录） | 图片/音频按需加载，首屏约 4 MB 即可开玩 | 29 MB |
 | **单文件离线版** | 所有资源内嵌进一个 HTML，断网双击可玩 | 41 MB |
 
-单文件离线版在 [Releases](../../releases) 里下载。
+单文件离线版下载：**[naiwa-offline.html](https://github.com/eric-thy/naiwa/releases/download/v1.0.0/naiwa-offline.html)**
+（或见 [Releases](../../releases) 页）
 
 ## 改动
 
